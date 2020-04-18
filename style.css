@@ -1,0 +1,19 @@
+div{
+    background-image: url("Hopetoun_falls.jpg");
+}
+
+li{
+    list-style-type: none;
+    margin-left: 10px;
+}
+i{
+    margin-right: 10px;
+}
+
+.a{
+    list-style-position: inside;
+}
+
+.b{
+    list-style-position: outside;
+}
